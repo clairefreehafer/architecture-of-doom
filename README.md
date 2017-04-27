@@ -4,4 +4,4 @@ A recration of a photograph by [Ludwig Danner](https://www.flickr.com/photos/lud
 
 ![example image](img.png)
 
-![actual image](Project 1.jpg)
+![actual image](Project_1.jpg)
